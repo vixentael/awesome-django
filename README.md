@@ -394,6 +394,7 @@ phone numbers.
 * [django-sudo](https://github.com/mattrobenolt/django-sudo) - Sudo mode is an extra layer of security for your most sensitive pages. This is an implementation of GitHub's Sudo Mode for Django.
 * [django-mfa](https://github.com/MicroPyramid/django-mfa) - Django app for providing MFA (Multi-Factor Authentication).
 * [django-user-sessions](https://github.com/Bouke/django-user-sessions) - Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.
+* [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system, optimized for using with Django apps.
 
 ## SEO
 
